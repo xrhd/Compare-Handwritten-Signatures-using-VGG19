@@ -1,0 +1,1 @@
+Compare Handwritten Signatures using VGG19 and Cosine Similarity
